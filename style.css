@@ -189,8 +189,7 @@ padding: 10px;
     margin: 30px;
 }
 .header img{ 
-    display: none;
-}
+    display: none;}
 
 
 
@@ -198,8 +197,7 @@ padding: 10px;
     margin: 35px;
     display: flex;
     justify-content: center;
-    flex-direction: center;
-}
+    flex-direction: center;}
 
 }
 
